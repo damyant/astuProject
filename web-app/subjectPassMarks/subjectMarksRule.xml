@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><rule>
+    <subject code="PH111" credit="5" subMinMarks="">
+        <theory minMarks="45" total="100"/>
+        <home minMarks="" total=""/>
+        <practical minMarks="" total=""/>
+        <project minMarks="" total=""/>
+    </subject>
+    <subject code="MA111" credit="3" subMinMarks="">
+        <theory minMarks="45" total="100"/>
+        <home minMarks="" total=""/>
+        <practical minMarks="" total=""/>
+        <project minMarks="" total=""/>
+    </subject>
+    <subject code="CH111" credit="5" subMinMarks="">
+        <theory minMarks="45" total="100"/>
+        <home minMarks="" total=""/>
+        <practical minMarks="" total=""/>
+        <project minMarks="" total=""/>
+    </subject>
+    <subject code="BI111" credit="3" subMinMarks="">
+        <theory minMarks="" total=""/>
+        <home minMarks="" total=""/>
+        <practical minMarks="" total=""/>
+        <project minMarks="" total=""/>
+    </subject>
+    <subject code="CS211" credit="4" subMinMarks="35">
+        <theory minMarks="0" total="80"/>
+        <home minMarks="" total=""/>
+        <practical minMarks="0" total="45"/>
+        <project minMarks="" total=""/>
+    </subject>
+<subject code="1454" credit="5" subMinMarks="36"><theory minMarks="36" total="100"/><practical minMarks="" total=""/><project minMarks="" total=""/></subject><subject code="HS311" credit="3" subMinMarks=""><theory minMarks="" total=""/><practical minMarks="" total=""/><project minMarks="" total=""/></subject></rule>

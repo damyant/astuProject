@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rule>
+
+
+
+    <ruleConversion>
+        <grade from="100" grade="A" to="90"/>
+        <grade from="89" grade="B" to="75"/>
+        <grade from="74" grade="C" to="60"/>
+        <grade from="59" grade="D" to="50"/>
+        <grade from="49" grade="E" to="36"/>
+        <grade from="35" grade="F" to="0"/>
+    </ruleConversion>
+</rule>
